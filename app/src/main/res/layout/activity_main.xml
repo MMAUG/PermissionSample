@@ -38,4 +38,10 @@
       android:text="@string/request_in_fragment"
       />
 
+  <FrameLayout
+      android:id="@+id/flContainer"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      />
+
 </LinearLayout>
