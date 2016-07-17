@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">PermissionSample</string>
+
+  <string name="request_camera">Request Camera</string>
+  <string name="request_location">Request Location</string>
+  <string name="request_in_fragment">Request Permission in Fragment</string>
+  <string name="request_camera_and_location">Request Camera and Location</string>
+
+  <string name="rationale_camera">This app needs access to your camera so you can take pictures.</string>
+  <string name="rationale_location">This app needs access to your location so you can search with current location.</string>
+  <string name="rationale_camera_and_external_storage">This app needs access to your camera and write access to storage.</string>
+  <string name="rationale_ask_again">This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.</string>
+
+  <string name="settings">Settings</string>
+
+</resources>
